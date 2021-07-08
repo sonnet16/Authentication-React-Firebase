@@ -1,9 +1,10 @@
 ## Sample
-![login](https://user-images.githubusercontent.com/54410440/124518013-3decd280-de07-11eb-956e-e78a7ac322f9.PNG)
-![logout](https://user-images.githubusercontent.com/54410440/124518018-41805980-de07-11eb-9a89-1d9c31a31f3f.PNG)
-![reset2](https://user-images.githubusercontent.com/54410440/124972374-163a7c00-e04c-11eb-8498-9627e404229d.PNG)
-![sup](https://user-images.githubusercontent.com/54410440/124518031-45ac7700-de07-11eb-8521-7e89166af04b.PNG)
-![forgotPassword](https://user-images.githubusercontent.com/54410440/124518043-4ba25800-de07-11eb-892e-8f482414ad8c.PNG)
+![home](https://user-images.githubusercontent.com/54410440/124974451-a24da300-e04e-11eb-9fc5-8e38bd95b8e5.PNG)
+![about](https://user-images.githubusercontent.com/54410440/124974453-a24da300-e04e-11eb-8e2d-b5dad711490b.PNG)
+![add](https://user-images.githubusercontent.com/54410440/124974452-a24da300-e04e-11eb-8f67-4809decf608e.PNG)
+![edit](https://user-images.githubusercontent.com/54410440/124974454-a2e63980-e04e-11eb-9dc5-ad74b122863c.PNG)
+![view](https://user-images.githubusercontent.com/54410440/124974465-a5e12a00-e04e-11eb-98d6-38b3d37010a4.PNG)
+
 
 # Getting Started with Create React App
 
